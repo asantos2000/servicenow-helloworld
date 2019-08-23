@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="helloworld">dff6fc4cdb633300f461cd3f2996196f</application>
+        <filter/>
+        <name>helloworld Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_398237_helloworl.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-23 18:27:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dbf6fc4cdb633300f461cd3f29961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>helloworld Table</sys_name>
+        <sys_package display_value="helloworld" source="x_398237_helloworl">f2f67c0cdb633300f461cd3f299619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helloworld">f2f67c0cdb633300f461cd3f299619ea</sys_scope>
+        <sys_update_name>sys_ui_module_dbf6fc4cdb633300f461cd3f29961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-23 18:27:19</sys_updated_on>
+        <table>x_398237_helloworl_helloworld_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
